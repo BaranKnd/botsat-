@@ -1,0 +1,232 @@
+Uri: https://www.uzmantakipci.com/
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\index.htm
+Content Type: text/html
+
+Uri: https://www.uzmantakipci.com/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.uzmantakipci.com/css/font-awesome.min.css
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://www.uzmantakipci.com/css/slick.css
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\css\slick.css
+Content Type: text/css
+
+Uri: https://www.uzmantakipci.com/css/style.css
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\css\style.css
+Content Type: text/css
+
+Uri: https://www.uzmantakipci.com/css/custom.css
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\css\custom.css
+Content Type: text/css
+
+Uri: https://www.uzmantakipci.com/favicon.png
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\favicon.png
+Content Type: image/png
+
+Uri: https://www.uzmantakipci.com/index.html
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\index.html
+Content Type: text/html
+
+Uri: https://www.uzmantakipci.com/instagram-takipci-satin-al.html
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\instagram-takipci-satin-al.html
+Content Type: text/html
+
+Uri: https://www.uzmantakipci.com/instagram-begeni-satin-al.html
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\instagram-begeni-satin-al.html
+Content Type: text/html
+
+Uri: https://www.uzmantakipci.com/instagram-video-goruntuleme-satin-al.html
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\instagram-video-goruntuleme-satin-al.html
+Content Type: text/html
+
+Uri: https://www.uzmantakipci.com/twitter-takipci-satin-al.html
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\twitter-takipci-satin-al.html
+Content Type: text/html
+
+Uri: https://www.uzmantakipci.com/facebook-sayfa-begeni-satin-al.html
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\facebook-sayfa-begeni-satin-al.html
+Content Type: text/html
+
+Uri: https://www.uzmantakipci.com/youtube-abone-satin-al.html
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\youtube-abone-satin-al.html
+Content Type: text/html
+
+Uri: https://www.uzmantakipci.com/sikca-sorulan-sorular.html
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\sikca-sorulan-sorular.html
+Content Type: text/html
+
+Uri: https://www.uzmantakipci.com/odeme-bilgileri.html
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\odeme-bilgileri.html
+Content Type: text/html
+
+Uri: https://www.uzmantakipci.com/iletisim.html
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\iletisim.html
+Content Type: text/html
+
+Uri: https://www.uzmantakipci.com/images/logo.png
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\images\logo.png
+Content Type: image/png
+
+Uri: https://www.uzmantakipci.com/images/icon/follower.svg
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\images\icon\follower.svg
+Content Type: image/svg+xml
+
+Uri: https://www.uzmantakipci.com/images/icon/like.svg
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\images\icon\like.svg
+Content Type: image/svg+xml
+
+Uri: https://www.uzmantakipci.com/images/icon/video.svg
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\images\icon\video.svg
+Content Type: image/svg+xml
+
+Uri: https://www.uzmantakipci.com/images/icon/twitter.svg
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\images\icon\twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://www.uzmantakipci.com/images/icon/facebook.svg
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\images\icon\facebook.svg
+Content Type: image/svg+xml
+
+Uri: https://www.uzmantakipci.com/images/icon/youtube.svg
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\images\icon\youtube.svg
+Content Type: image/svg+xml
+
+Uri: https://www.uzmantakipci.com/images/lock.svg
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\images\lock.svg
+Content Type: image/svg+xml
+
+Uri: https://www.uzmantakipci.com/images/slide-2.gif
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\images\slide-2.gif
+Content Type: image/gif
+
+Uri: https://www.uzmantakipci.com/images/icon/instagram.svg
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\images\icon\instagram.svg
+Content Type: image/svg+xml
+
+Uri: https://www.uzmantakipci.com/images/feature1.png
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\images\feature1.png
+Content Type: image/png
+
+Uri: https://www.uzmantakipci.com/images/feature2.png
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\images\feature2.png
+Content Type: image/png
+
+Uri: https://www.uzmantakipci.com/images/feature3.png
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\images\feature3.png
+Content Type: image/png
+
+Uri: https://www.uzmantakipci.com/images/icon/whatsapp.svg
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\images\icon\whatsapp.svg
+Content Type: image/svg+xml
+
+Uri: https://www.uzmantakipci.com/images/chat.svg
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\images\chat.svg
+Content Type: image/svg+xml
+
+Uri: https://www.uzmantakipci.com/js/jquery.min.js
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.uzmantakipci.com/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.uzmantakipci.com/js/slick.min.js
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://www.uzmantakipci.com/js/main.js
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\js\main.js
+Content Type: application/javascript
+
+Uri: https://www.uzmantakipci.com/fonts/glyphicons-halflings-regular.eot
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.uzmantakipci.com/fonts/glyphicons-halflings-regular.eot?
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.uzmantakipci.com/fonts/glyphicons-halflings-regular.woff2
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://www.uzmantakipci.com/fonts/glyphicons-halflings-regular.woff
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://www.uzmantakipci.com/fonts/glyphicons-halflings-regular.ttf
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: https://www.uzmantakipci.com/fonts/glyphicons-halflings-regular.svg
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://www.uzmantakipci.com/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.uzmantakipci.com/fonts/fontawesome-webfont.eot?
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.uzmantakipci.com/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://www.uzmantakipci.com/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.uzmantakipci.com/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://www.uzmantakipci.com/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.uzmantakipci.com/fonts/hustbee.css
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\fonts\hustbee.css
+Content Type: text/css
+
+Uri: https://www.uzmantakipci.com/images/cloud-bg.svg
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\images\cloud-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://www.uzmantakipci.com/images/cloud-bg-df.png
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\images\cloud-bg-df.png
+Content Type: image/png
+
+Uri: https://www.uzmantakipci.com/images/cloud-bg-sm.png
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\images\cloud-bg-sm.png
+Content Type: image/png
+
+Uri: https://www.uzmantakipci.com/images/btn-search.svg
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\images\btn-search.svg
+Content Type: image/svg+xml
+
+Uri: https://www.uzmantakipci.com/fonts/hustbee.eot
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\fonts\hustbee.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.uzmantakipci.com/fonts/hustbee.eot?
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\fonts\hustbee-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.uzmantakipci.com/fonts/hustbee.woff
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\fonts\hustbee.woff
+Content Type: font/woff
+
+Uri: https://www.uzmantakipci.com/fonts/hustbee.ttf
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\fonts\hustbee.ttf
+Content Type: font/ttf
+
+Uri: https://www.uzmantakipci.com/fonts/hustbee.svg
+File Name: c:\Downloaded Web Sites\www.uzmantakipci.com\fonts\hustbee.svg
+Content Type: image/svg+xml
+
